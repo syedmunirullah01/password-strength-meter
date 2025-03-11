@@ -101,4 +101,4 @@ elif option == "Generate Strong Password":
                 
 
 # Footer
-st.markdown('<div class="footer">Made by Ayesha ❤</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Made by Syed Munir Ullah ❤</div>', unsafe_allow_html=True)
